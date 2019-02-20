@@ -8,5 +8,8 @@ Simple methods for NER, including vanilla  LSTM, LSTM + GloVe embedding, CRF.
 - Scikit-learn (https://scikit-learn.org/stable/) 
 - Pretrained GloVe (http://nlp.stanford.edu/data/glove.6B.zip) vectors, and put them under "data" folder
 
+
+
 To reproduce the experiment, simply download the iPython notebooks in this repository and run all cells.
  
+Note: for privacy issue, the data used in this base is restricted.
